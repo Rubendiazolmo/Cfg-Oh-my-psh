@@ -4,4 +4,4 @@ https://ohmyposh.dev/
 
 Resultado:
 
-![Terminal.png]()
+![Resultado](Terminal.png)
