@@ -1,0 +1,3 @@
+C:\Scripts\Get-IPConfiguration.ps1
+
+oh-my-posh init pwsh --config "C:\Users\W10\AppData\Local\Programs\oh-my-posh\themes\kali_custom.omp.json" | Invoke-Expression
