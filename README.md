@@ -4,4 +4,4 @@ https://ohmyposh.dev/
 
 Resultado:
 
-![Uploading image.png…]()
+![Termianl.png]()
